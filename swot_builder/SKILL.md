@@ -1,0 +1,69 @@
+---
+name: swot_builder
+description: Verilen şirket, ürün, proje veya kariyer için yapılandırılmış SWOT analizi (Güçlü Yönler, Zayıf Yönler, Fırsatlar, Tehditler) üreten skill. Strateji toplantıları, iş planı hazırlığı, proje değerlendirmesi için. Bir konu/bağlam paylaşıldığında tetiklenir.
+---
+
+# SWOT Analizi Oluşturucu
+
+## Amaç
+
+Bir konuyu 4 boyutta (Güçlü Yönler, Zayıf Yönler, Fırsatlar, Tehditler) analiz ederek stratejik bakış açısı sunar.
+
+## Kullanım
+
+Kullanıcı şunları sağlamalı:
+1. Analiz edilecek konu (şirket, ürün, proje, departman, kariyer)
+2. Bağlam (sektör, pazar, hedef, mevcut durum)
+3. (Opsiyonel) İlgili dokümanlar (rapor, sunum, veri)
+4. (Opsiyonel) Hedef kitle (yönetim sunumu mu, iç toplantı mı)
+
+## Çıktı Formatı
+
+### SWOT Matrisi
+
+|  | **POZİTİF** | **NEGATİF** |
+|---|---|---|
+| **İÇ FAKTÖRLER** | **Güçlü Yönler (Strengths)** | **Zayıf Yönler (Weaknesses)** |
+| **DIŞ FAKTÖRLER** | **Fırsatlar (Opportunities)** | **Tehditler (Threats)** |
+
+### Detaylı SWOT
+
+#### Güçlü Yönler (S)
+- S1: ...
+- S2: ...
+- S3: ...
+- S4: ...
+- S5: ...
+
+#### Zayıf Yönler (W)
+- W1: ...
+- W2: ...
+- W3: ...
+- W4: ...
+
+#### Fırsatlar (O)
+- O1: ...
+- O2: ...
+- O3: ...
+- O4: ...
+
+#### Tehditler (T)
+- T1: ...
+- T2: ...
+- T3: ...
+- T4: ...
+
+### Stratejik Öneriler (TOWS)
+
+- **SO Stratejileri** (güçlü yönlerle fırsatları kullan): ...
+- **ST Stratejileri** (güçlü yönlerle tehditleri savuştur): ...
+- **WO Stratejileri** (fırsatları kullanarak zayıf yönleri kapat): ...
+- **WT Stratejileri** (zayıf yönleri ve tehditleri minimize et): ...
+
+## Önemli Kurallar
+
+- Her madde somut olmalı, klişe ifadelerden kaçın
+- İç ve dış faktörleri karıştırma
+- 4-6 madde per kategori ideal
+- Verilerden destekle (varsa)
+- Türkçe ana kavramları kullan ama orijinal İngilizce isimleri parantezde ver
